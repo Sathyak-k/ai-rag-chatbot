@@ -112,6 +112,6 @@ Integrate LLM (OpenAI / Ollama) for better responses
 Add file/document upload support
 Improve UI with chat interface
 Deploy the application online
-👨‍💻 Author
 
+👨‍💻 Author
 Sathya K
